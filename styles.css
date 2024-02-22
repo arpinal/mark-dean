@@ -1,0 +1,17 @@
+body{
+    background-image:url(https://o.aolcdn.com/hss/storage/midas/d9043c0253cd396a25befcf9c7236e73/201494819/Mark+Dean+fullbleed.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+table, th, td{
+    border: 1px solid black;}
+
+table{
+background-color: aliceblue;
+}
+    
+h3{
+background-color: aliceblue;
+}
+
